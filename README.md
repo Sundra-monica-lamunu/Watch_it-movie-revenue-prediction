@@ -219,4 +219,5 @@ This project demonstrates the application of machine learning in solving a busin
 Through systematic data cleaning, exploratory data analysis, feature engineering, model development and evaluation, a Random Forest classifier was identified as the best-performing model among the three models tested.
 The selected model achieved a validation accuracy of 87.50% and was used to predict the revenue categories of 600 movies in the test dataset.
 The project provided practical experience in the complete machine learning workflow, from understanding a business problem to developing a predictive solution and generating a final submission file.
+
 Project Outcome: A completed movie revenue category prediction workflow with a trained classification model and a final CSV file containing 600 predictions.
